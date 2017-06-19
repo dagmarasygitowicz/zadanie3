@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Szachy/Szachy.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Szachy/Figury/Krol.cs">
+    <Files>
+      <File FileName="Szachy/Program.cs" Line="10" Column="4" />
+      <File FileName="Szachy/Figury/Szachownica.cs" Line="44" Column="70" />
+      <File FileName="Szachy/Figury/Ruch.cs" Line="1" Column="1" />
+      <File FileName="Szachy/Figury/Figura.cs" Line="25" Column="50" />
+      <File FileName="Szachy/Figury/Pionek.cs" Line="7" Column="30" />
+      <File FileName="Szachy/Figury/Hetman.cs" Line="7" Column="29" />
+      <File FileName="Szachy/Figury/Wieza.cs" Line="7" Column="20" />
+      <File FileName="Szachy/Figury/Skoczek.cs" Line="7" Column="42" />
+      <File FileName="Szachy/Figury/Goniec.cs" Line="7" Column="41" />
+      <File FileName="Szachy/Figury/Krol.cs" Line="8" Column="16" />
+      <File FileName="Szachy/Figury/Kolor.cs" Line="9" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

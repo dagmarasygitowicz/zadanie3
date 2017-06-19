@@ -1,0 +1,10 @@
+/home/vski/Szachy/Szachy/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vski/Szachy/Szachy/bin/Debug/Szachy.exe.mdb
+/home/vski/Szachy/Szachy/bin/Debug/Szachy.exe
+/home/vski/Szachy/Szachy/obj/x86/Debug/Szachy.exe
+/home/vski/Szachy/Szachy/obj/x86/Debug/Szachy.exe.mdb
+/home/vski/Pobrane/Szachy/Szachy/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vski/Pobrane/Szachy/Szachy/bin/Debug/Szachy.exe.mdb
+/home/vski/Pobrane/Szachy/Szachy/bin/Debug/Szachy.exe
+/home/vski/Pobrane/Szachy/Szachy/obj/x86/Debug/Szachy.exe
+/home/vski/Pobrane/Szachy/Szachy/obj/x86/Debug/Szachy.exe.mdb
